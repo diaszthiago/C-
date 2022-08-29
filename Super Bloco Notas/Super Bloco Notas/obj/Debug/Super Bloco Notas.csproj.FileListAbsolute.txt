@@ -1,0 +1,11 @@
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.exe.config
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.exe
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.pdb
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super_Bloco_Notas.FrmPrincipal.resources
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super_Bloco_Notas.Properties.Resources.resources
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.exe
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.pdb
+C:\Users\thiag\source\repos\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super_Bloco_Notas.FrmFilha.resources
