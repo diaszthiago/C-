@@ -1,0 +1,10 @@
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\bin\Debug\AtividadeN.exe.config
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\bin\Debug\AtividadeN.exe
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\bin\Debug\AtividadeN.pdb
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\obj\Debug\AtividadeN.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\obj\Debug\AtividadeN.Properties.Resources.resources
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\obj\Debug\AtividadeN.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\obj\Debug\AtividadeN.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\obj\Debug\AtividadeN.exe
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\obj\Debug\AtividadeN.pdb
+C:\Users\thiag\source\repos\AtividadeN\AtividadeN\obj\Debug\AtividadeN.FrmPrincipal.resources
