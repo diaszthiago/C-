@@ -1,0 +1,11 @@
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe.config
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.pdb
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmPrincipal.resources
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmRelatorio.resources
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.Properties.Resources.resources
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.exe
+C:\Users\thiag\source\repos\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.pdb
